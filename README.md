@@ -10,6 +10,10 @@ The answer >> I think it will be 90% users will not see all 250 Element
 >> Question 3 : Do you see any Advantage ?
 I think you got it , you saved  230 Seconds for rendering the Items in Screen , Suppose the size of items is 1000 or 100000 , 10000000 , 100000000000000000
 
+## Advantage 
+		 Minmize the Time for Rendering Elements .
+		 you can use it with another Jetback Components very easy .
+
 ## Component of Paging :-
 + we have from 4 to 7 Component :-
   *  PageList
