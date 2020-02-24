@@ -1,4 +1,4 @@
-##What is Paging Jetback ?
+## What is Paging Jetback ?
 - it is an Library from Google , it made for controlling the getting and rendering Items in Recyclerview , if you did not undestand the purpose of Paging , just follow this Senario .
 - >Morse Developer is a new developer in  Android Field and he was a dummy one , he used Rx with Retrofit to get 250 Object or more from Server to display them in RecyclerView , okay ?
 >> Question 1 : What will the time be ?
